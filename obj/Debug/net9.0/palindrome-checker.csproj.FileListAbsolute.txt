@@ -1,0 +1,14 @@
+C:\Users\italo\programando\backend\csharp\palindrome-checker\bin\Debug\net9.0\palindrome-checker.exe
+C:\Users\italo\programando\backend\csharp\palindrome-checker\bin\Debug\net9.0\palindrome-checker.deps.json
+C:\Users\italo\programando\backend\csharp\palindrome-checker\bin\Debug\net9.0\palindrome-checker.runtimeconfig.json
+C:\Users\italo\programando\backend\csharp\palindrome-checker\bin\Debug\net9.0\palindrome-checker.dll
+C:\Users\italo\programando\backend\csharp\palindrome-checker\bin\Debug\net9.0\palindrome-checker.pdb
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.AssemblyInfoInputs.cache
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.AssemblyInfo.cs
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.csproj.CoreCompileInputs.cache
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.dll
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\refint\palindrome-checker.dll
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.pdb
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\palindrome-checker.genruntimeconfig.cache
+C:\Users\italo\programando\backend\csharp\palindrome-checker\obj\Debug\net9.0\ref\palindrome-checker.dll
